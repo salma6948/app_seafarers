@@ -1,0 +1,7 @@
+{
+  "name": "SeaMind AI",
+  "description": "AI-powered mental health platform for seafarers, providing proactive support, daily check-ins, and maritime-specific resources.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
